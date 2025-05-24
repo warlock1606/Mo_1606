@@ -71817,7 +71817,7 @@ A.Ip.prototype={
 S(a){return new A.vs(new A.Iq(A.b(["assets/5th.png","assets/4th.png","assets/2nd.png","assets/6th.png","assets/3rd.png"],t.s),null),!1,null)}}
 A.Iq.prototype={
 S(a){var s=null,r=A.b([new A.ej(10,B.b4,A.ae(B.c.R(127.5),B.S.u()>>>16&255,B.S.u()>>>8&255,B.S.u()&255),B.h,30)],t.sq)
-r=A.dN(new A.ux(A.iu("MODERN ENG. ASSOCIATES \ud83c\udfdb\ufe0f",A.dn(s,s,B.h1,s,s,s,s,s,"MyFont",s,s,22,s,s,B.aO,s,s,!0,s,s,s,s,s,A.b([new A.d5(B.A,new A.i(1,1),0),new A.d5(B.z,new A.i(1.5,1.5),0),new A.d5(B.d4,new A.i(2,2),0)],t.kO),s,s)),!0,B.h1,s),s,new A.ck(s,s,s,s,r,s,B.U),s,s,s,s)
+r=A.dN(new A.ux(A.iu("MODERN ENG. ASSOCIATES \ud83c\udfdb\ufe0f",A.dn(s,s,B.h1,s,s,s,s,s,"MyFont",s,s,18,s,s,B.aO,s,s,!0,s,s,s,s,s,A.b([new A.d5(B.A,new A.i(1,1),0),new A.d5(B.z,new A.i(1.5,1.5),0),new A.d5(B.d4,new A.i(2,2),0)],t.kO),s,s)),!0,B.h1,s),s,new A.ck(s,s,s,s,r,s,B.U),s,s,s,s)
 return A.a2k(new A.t2(r,0,B.u,!0,new A.Mm(s,s,1/0,56),s),A.eJ(B.ar,A.b([A.dN(s,s,new A.ck(s,s,s,s,s,new A.fb(B.b2,B.af,B.al,A.b([B.k,B.bK],t.W),s,s),B.U),s,s,s,s),A.vb(new A.a5O(this)),new A.dZ(B.af,s,s,new A.b8(B.AL,A.vb(new A.a5P()),s),s)],t.F),B.bx),!0)}}
 A.a5O.prototype={
 $2(a,b){var s=null,r="MyFont",q=b.d,p=A.bZ(0,600,0),o=A.dJ(25),n=B.c.R(76.5),m=t.sq,l=A.b([new A.ej(10,B.b4,A.ae(n,B.S.u()>>>16&255,B.S.u()>>>8&255,B.S.u()&255),B.h,30)],m),k=q*0.5,j=q*0.3,i=t.kO,h=t.F
